@@ -4,11 +4,7 @@ LeetCode is the best platform for improving and expanding your knowledge of Algo
 
 <br />
 
-<center>
-
 [![Activity Chart](https://leetcard.jacoblin.cool/manoj-m-01?ext=activity)](https://leetcode.com/manoj-m-01/)
-
-</center>
 
 <br />
 <br /> 
