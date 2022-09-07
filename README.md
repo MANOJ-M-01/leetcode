@@ -4,7 +4,11 @@ LeetCode is the best platform for improving and expanding your knowledge of Algo
 
 <br />
 
-[![Activity Chart](https://leetcard.jacoblin.cool/manoj-m-01?ext=activity)](https://leetcode.com/manoj-m-01/)
+<p align="center">
+  <a href="https://leetcode.com/manoj-m-01/">
+    <img alt="Activity Chart" src="https://leetcard.jacoblin.cool/manoj-m-01?ext=activity"/>
+  </a>
+</p>
 
 <br />
 <br /> 
