@@ -15,11 +15,11 @@ LeetCode is the best platform for improving and expanding your knowledge of Algo
 
 ## Programming languages
 
-[![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)]() 
-[![php](https://img.shields.io/badge/language-Php-pink.svg)]()
-[![Python](https://img.shields.io/badge/language-Python-red.svg)]()
-[![TypeScript](https://img.shields.io/badge/language-TypeScript-blue.svg)]()
-[![SQL](https://img.shields.io/badge/language-SQL-orange.svg)]()
+[![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://github.com/MANOJ-M-01/leetcode) 
+[![php](https://img.shields.io/badge/language-Php-pink.svg)](https://github.com/MANOJ-M-01/leetcode)
+[![Python](https://img.shields.io/badge/language-Python-red.svg)](https://github.com/MANOJ-M-01/leetcode)
+[![TypeScript](https://img.shields.io/badge/language-TypeScript-blue.svg)](https://github.com/MANOJ-M-01/leetcode)
+[![SQL](https://img.shields.io/badge/language-SQL-orange.svg)](https://github.com/MANOJ-M-01/leetcode)
 
 <br /> 
 
