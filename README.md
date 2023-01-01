@@ -20,7 +20,7 @@ LeetCode is the best platform for improving and expanding your knowledge of Algo
 [![Python](https://img.shields.io/badge/language-Python-red.svg)](https://github.com/MANOJ-M-01/leetcode)
 [![TypeScript](https://img.shields.io/badge/language-TypeScript-blue.svg)](https://github.com/MANOJ-M-01/leetcode)
 [![SQL](https://img.shields.io/badge/language-SQL-orange.svg)](https://github.com/MANOJ-M-01/leetcode)
-[![SQL](https://img.shields.io/badge/language-dart-skyblue.svg)](https://github.com/MANOJ-M-01/leetcode)
+[![SQL](https://img.shields.io/badge/language-Dart-skyblue.svg)](https://github.com/MANOJ-M-01/leetcode)
 
 <br /> 
 
